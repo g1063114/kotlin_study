@@ -1,6 +1,10 @@
 class HelloKotlin {
 }
 
+fun welcome(msg : String) : Unit{
+    print("$msg, welcome!");
+}
+
 fun main(args: Array<String>){
-    print("hello Kotlin");
+    welcome("hello");
 }
