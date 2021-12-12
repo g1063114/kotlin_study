@@ -14,7 +14,7 @@ fun main(args: Array<String>){
         sum+=n;
     }
 
-    for(i in 1..10){
+    for(i in 3..10){
         num+=i;
     }
     print("$num");
