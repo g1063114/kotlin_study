@@ -19,3 +19,5 @@ fun main(args: Array<String>){
     }
     print("$num");
 }
+
+// spring cloud, eureka, gateway
