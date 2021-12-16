@@ -18,6 +18,7 @@ fun main(args: Array<String>){
         num+=i;
     }
     print("$num");
+    print("$sum");
 }
 
 // spring cloud, eureka, gateway
